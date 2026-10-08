@@ -8,7 +8,7 @@ spec:
     matchLabels:
       app: redis
   template:
-    metadat:
+    metadata:
       labels:
         app: redis
     spec:
