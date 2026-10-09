@@ -8,7 +8,7 @@ spec:
     matchLabels:
       app: java-app
   template:
-    metadat:
+    metadata:
       labels:
         app: java-app
   spec:
